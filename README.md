@@ -1,1 +1,3 @@
-# git-practice-site
+# Git Practice Site
+
+গিট ও গিটহাব প্র্যাকটিসের জন্য একটা ছোট ওয়েবসাইট।
